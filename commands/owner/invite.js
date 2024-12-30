@@ -11,7 +11,7 @@ module.exports = {
         if (message.author.id === ownerid) {
         let guild = null;
 
-        if (!args[0]) return message.channel.send("<a:Invite:1317867093537849364> [Invite Link]() And <:support:1318279495819595867> [Support](https://discord.gg/fZQUcabh6b).")
+        if (!args[0]) return message.channel.send("<a:Invite:1317867093537849364> [Invite Link](https://discord.com/oauth2/authorize?client_id=1302563639882158091&permissions=8&integration_type=0&scope=bot) And <:support:1318279495819595867> [Support](https://discord.gg/fZQUcabh6b).")
 
         if(args[0]){
             let fetched = bot.guilds.cache.find(g => g.name === args.join(" "));
