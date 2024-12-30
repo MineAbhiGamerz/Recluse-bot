@@ -3,7 +3,7 @@ const { MessageEmbed } = require("discord.js");
 module.exports = {
   name: "help",
   description:
-    "Get list of all command and even get to know every command detials",
+    "<:info:1317866731930386605> Get list of all command and even get to know every command detials",
   usage: "help <cmd>",
   category: "info",
   run: async (client, message, args) => {
@@ -28,7 +28,7 @@ module.exports = {
       const commands = await client.commands;
 
       let emx = new MessageEmbed()
-        .setDescription("**Hi Stranger** I am Recluse <:recluse6:827723300457152512>. Do `?help <command>` to see aliases and description of commands")
+        .setDescription("**<:info:1317866731930386605> Hi Guys** I am TM • CYBER MINE. Do `-help` to see commands")
        
         .setColor("#000000")
         .setImage('https://cdn.discordapp.com/attachments/826469496323571773/831903708031221850/standard_1.gif')
