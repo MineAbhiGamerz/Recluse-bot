@@ -5,7 +5,7 @@
 
 ## This bot was made Atreya YT#0513, do not remove credits or you will have copyright issues.
 ### Make sure to join The servers below:
-- [Recluse Community](https://discord.gg/gU7XAxTpX5)
+- [TEAM MINE Community](https://discord.gg/fZQUcabh6b)
 
 #### Star the repo and fork it, Ty
 ###### Things You should not do
@@ -29,11 +29,11 @@
 - run it by `node server.js` 
 
 
-![image](https://user-images.githubusercontent.com/74746579/119320781-a8084880-bc9b-11eb-9f34-aa8351183424.png)
+![image](https://cdn.discordapp.com/attachments/1275433299963150366/1318787830251655250/standard_6.gif?ex=67741320&is=6772c1a0&hm=2d081194c3b76ee0b9d1f9bb7a63cca1fc539b71e520004b4e07dbc2e3885f82&)
 - Go secrets[Environment Variable] and add TOKEN and paste token there if you are in repl.it or put  add token in .env file
 
-- Run in repl.it
-- [Click Here](https://replit.com/@GamingDiwas/Discord-Bot-Updated)
+- Run in Our Discord
+- [Click Here](https://discord.gg/fZQUcabh6b)
 
 
 Please Subscribe to my channel and for help join my server.
