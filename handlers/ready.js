@@ -6,15 +6,15 @@ module.exports = {
 
         setInterval(() => {
             const textArray = [
-                `My servers ${client.guilds.cache.size}`,
+                `servers ${client.guilds.cache.size}`,
                 `My users ${client.users.cache.size}`,
-                "Coding languages",
-                "Spotify :D"
+                "TEAM MINE",
+                "Spotify"
             ]
             const activityArray = [
                 "WATCHING",
-                "WATCHING",
-                "WATCHING",
+                "PLAYING",
+                "PLAYING",
                 "LISTENING"
             ]
       
