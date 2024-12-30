@@ -1,5 +1,5 @@
-# Suscribe to Diwas Atreya 
-- [Subscribe](https://www.youtube.com/@DiwasAtreya)
+# Suscribe to MineAbhiGamerz 
+- [Subscribe](https://youtube.com/@mineabhigamerz?si=Ecx7D5MytzNBUclg)
 # Discord-Bot
 200+ commands free open source code of discord bot
 
