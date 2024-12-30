@@ -1,8 +1,8 @@
-const ownerid = "519666024220721152";
+const ownerid = "1193934430872547363";
 
 module.exports = {
-        name: "getinvite",
-        aliases: ['getinv', 'gi'],
+        name: "invite",
+        aliases: ['inv', 'i'],
         category: "premium",
         description: "Generates an invitation to  server in question.",
         usage: "[ID | name]",
