@@ -9,7 +9,7 @@ module.exports = {
   run: async (client, message, args) => {
     
     if(!message.channel.nsfw) {
-      return message.reply("This channel dosen't support nsfw content")
+      return message.reply("> <:double_arrow:1300145972223017021> buy Nsfw [Premium](https://discord.gg/fZQUcabh6b) Feature <:premium:1300145505615089777>")
       
     } else {
     
